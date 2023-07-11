@@ -1,8 +1,8 @@
 # Тестовое задание 1
 
 ```
-virtualenv venv
-```
-```
-source venv/bin/activate
+1. virtualenv venv
+2. source venv/bin/activate
+3. python3 -m pip install requirements.txt
+4. pytest
 ```
